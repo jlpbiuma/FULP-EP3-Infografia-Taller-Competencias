@@ -77,6 +77,9 @@
 - [Adobe Color](https://color.adobe.com/es/)
 - [ShadowBoxGenerator](https://neumorphism.io/#e0e0e0)
 
+### Cursos relevantes gratuitos
+- [Curso React Native - Midudev](https://www.youtube.com/watch?v=qi87b6VcIHY)
+
 #### Webs información/documentación 📖
 - [DevDocs - documentación de todo](https://devdocs.io)
 - [Google Fonts - fuentes y tipografías](https://fonts.google.com)
