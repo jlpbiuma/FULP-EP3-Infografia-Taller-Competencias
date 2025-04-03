@@ -5,6 +5,7 @@
 
 #### GitHub 🐙
 - [Iconos](https://skillicons.dev)
+- [Otra opción de Iconos de Tecnologías](https://github.com/marwin1991/profile-technology-icons?tab=readme-ov-file)
 - [Estadísticas](https://github.com/anuraghazra/github-readme-stats)
 - [Métricas](https://github.com/williamtroup/Heat.js)
 - [Emojis](https://emojikeyboard.top/es/)
@@ -29,6 +30,7 @@
 ##### Diseño 🎨
 - [ManzDev](https://www.youtube.com/@ManzDev/videos)
 - [Carmen Ansio](https://www.linkedin.com/in/carmenansio/?locale=es_ES)
+- [Optimistic Web](https://www.youtube.com/@OptimisticWeb)
 
 ##### Laboral 💼
 - [Mimiworkbestie](https://www.instagram.com/mimiworkbestie/?hl=es)
