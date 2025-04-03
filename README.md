@@ -77,6 +77,12 @@
 - [Adobe Color](https://color.adobe.com/es/)
 - [ShadowBoxGenerator](https://neumorphism.io/#e0e0e0)
 
+#### Extensiones Chrome para diseño 🌈
+- [WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=es)
+- [ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=es)
+- [SVG Export](https://chromewebstore.google.com/detail/svg-export/naeaaedieihlkmdajjefioajbbdbdjgp?hl=es)
+- [GoFullPage](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=es)
+
 #### Webs información/documentación 📖
 - [DevDocs - documentación de todo](https://devdocs.io)
 - [Google Fonts - fuentes y tipografías](https://fonts.google.com)
