@@ -25,6 +25,8 @@
 - [Alan Buscaglia](https://www.youtube.com/@gentlemanprogramming)
 - [Fernando Herrera](https://www.youtube.com/@gentlemanprogramming)
 - [Brais Moure](https://www.linkedin.com/in/braismoure/)
+- [Traversy Media](https://www.youtube.com/@TraversyMedia/videos)
+
 
 ##### Diseño 🎨
 - [ManzDev](https://www.youtube.com/@ManzDev/videos)
@@ -42,6 +44,8 @@
 - [Fazt Code](https://www.youtube.com/@FaztCode/videos)
 - [NetworkChunk](https://www.youtube.com/@NetworkChuck/videos)
 - [Nate Gentile](https://www.youtube.com/@NateGentile7)
+- [ForrestKnight](https://www.youtube.com/@fknight)
+
 
 #### LLMs 🧠
 - [Normativa Europea](https://digital-strategy.ec.europa.eu/es/policies/regulatory-framework-ai)
@@ -69,6 +73,7 @@
 - [Toast - Notificaciones](https://react-hot-toast.com) - Librería para mostrar notificaciones de manera sencilla en aplicaciones React.
 - [AG Charts - gráficas](https://www.ag-grid.com/charts/) - Herramienta para crear gráficos avanzados y personalizables.
 - [Formity - formularios dinámicos](https://www.formity.app) - Librería para crear formularios dinámicos y fáciles de usar.
+- [Chakra UI - componentes sencillos pero customizables](https://chakra-ui.com/) - Librería de componentes y efectos para la tipografía.
 
 #### Webs para diseño 🎨
 - [Law of UX](https://lawsofux.com/es/)
@@ -83,6 +88,8 @@
 - [Roadmap.sh - recomendaciones de carrera](https://roadmap.sh)
 - [Markdown - Trabajar con Markdown Online](https://markdownlivepreview.com)
 - [Excalidraw - Diseño a modo de dibujo rápidos](https://excalidraw.com)
+- [awesome-react - Casi todo para el ecosistema React](https://github.com/enaqx/awesome-react)
+
 
 #### Plugins VSC 🔌
 - [Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - Asistente de codificación que sugiere líneas de código mientras escribes.
@@ -93,3 +100,4 @@
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Formateador de código que asegura un estilo consistente.
 - [Tailwind Fold](https://marketplace.visualstudio.com/items?itemName=stivo.tailwind-fold) - Herramienta para plegar clases de Tailwind en tu código.
 - [ImportCost](https://marketplace.visualstudio.com/items?itemName=stivo.tailwind-fold) - Muestra el tamaño de los paquetes importados en tu código.
+- [VS Code Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets) - Mascotas adorables para el VSC.
