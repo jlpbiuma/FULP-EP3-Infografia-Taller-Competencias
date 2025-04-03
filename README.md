@@ -69,6 +69,8 @@
 - [Toast - Notificaciones](https://react-hot-toast.com) - Librería para mostrar notificaciones de manera sencilla en aplicaciones React.
 - [AG Charts - gráficas](https://www.ag-grid.com/charts/) - Herramienta para crear gráficos avanzados y personalizables.
 - [Formity - formularios dinámicos](https://www.formity.app) - Librería para crear formularios dinámicos y fáciles de usar.
+- [Flowbite - Tailwind CSS component library](https://flowbite.com/) - Librería muy interesante para trabajar con Tailwind.
+
 
 #### Webs para diseño 🎨
 - [Law of UX](https://lawsofux.com/es/)
@@ -83,6 +85,7 @@
 - [Roadmap.sh - recomendaciones de carrera](https://roadmap.sh)
 - [Markdown - Trabajar con Markdown Online](https://markdownlivepreview.com)
 - [Excalidraw - Diseño a modo de dibujo rápidos](https://excalidraw.com)
+- [i18next - documentación de productos que puedan adaptarse a diferentes idiomas](https://react.i18next.com/)
 
 #### Plugins VSC 🔌
 - [Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - Asistente de codificación que sugiere líneas de código mientras escribes.
