@@ -81,6 +81,9 @@
 - [Adobe Color](https://color.adobe.com/es/)
 - [ShadowBoxGenerator](https://neumorphism.io/#e0e0e0)
 
+### Cursos relevantes gratuitos
+- [Curso React Native - Midudev](https://www.youtube.com/watch?v=qi87b6VcIHY)
+
 #### Extensiones Chrome para diseño 🌈
 - [WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=es)
 - [ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=es)
