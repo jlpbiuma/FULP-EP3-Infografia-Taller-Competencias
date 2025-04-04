@@ -5,6 +5,7 @@
 
 #### GitHub 🐙
 - [Iconos](https://skillicons.dev)
+- [Otra opción de Iconos de Tecnologías](https://github.com/marwin1991/profile-technology-icons?tab=readme-ov-file)
 - [Estadísticas](https://github.com/anuraghazra/github-readme-stats)
 - [Métricas](https://github.com/williamtroup/Heat.js)
 - [Emojis](https://emojikeyboard.top/es/)
@@ -29,6 +30,7 @@
 ##### Diseño 🎨
 - [ManzDev](https://www.youtube.com/@ManzDev/videos)
 - [Carmen Ansio](https://www.linkedin.com/in/carmenansio/?locale=es_ES)
+- [Optimistic Web](https://www.youtube.com/@OptimisticWeb)
 
 ##### Laboral 💼
 - [Mimiworkbestie](https://www.instagram.com/mimiworkbestie/?hl=es)
@@ -69,6 +71,8 @@
 - [Toast - Notificaciones](https://react-hot-toast.com) - Librería para mostrar notificaciones de manera sencilla en aplicaciones React.
 - [AG Charts - gráficas](https://www.ag-grid.com/charts/) - Herramienta para crear gráficos avanzados y personalizables.
 - [Formity - formularios dinámicos](https://www.formity.app) - Librería para crear formularios dinámicos y fáciles de usar.
+- [Flowbite - Tailwind CSS component library](https://flowbite.com/) - Librería muy interesante para trabajar con Tailwind.
+
 
 #### Webs para diseño 🎨
 - [Law of UX](https://lawsofux.com/es/)
@@ -80,12 +84,19 @@
 ### Cursos relevantes gratuitos
 - [Curso React Native - Midudev](https://www.youtube.com/watch?v=qi87b6VcIHY)
 
+#### Extensiones Chrome para diseño 🌈
+- [WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=es)
+- [ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=es)
+- [SVG Export](https://chromewebstore.google.com/detail/svg-export/naeaaedieihlkmdajjefioajbbdbdjgp?hl=es)
+- [GoFullPage](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=es)
+
 #### Webs información/documentación 📖
 - [DevDocs - documentación de todo](https://devdocs.io)
 - [Google Fonts - fuentes y tipografías](https://fonts.google.com)
 - [Roadmap.sh - recomendaciones de carrera](https://roadmap.sh)
 - [Markdown - Trabajar con Markdown Online](https://markdownlivepreview.com)
 - [Excalidraw - Diseño a modo de dibujo rápidos](https://excalidraw.com)
+- [i18next - documentación de productos que puedan adaptarse a diferentes idiomas](https://react.i18next.com/)
 
 #### Plugins VSC 🔌
 - [Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - Asistente de codificación que sugiere líneas de código mientras escribes.
