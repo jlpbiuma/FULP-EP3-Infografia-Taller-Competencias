@@ -27,6 +27,7 @@
 - [Fernando Herrera](https://www.youtube.com/@gentlemanprogramming)
 - [Brais Moure](https://www.linkedin.com/in/braismoure/)
 - [Traversy Media](https://www.youtube.com/@TraversyMedia/videos)
+- [Cassidy Williams](https://www.linkedin.com/in/cassidoo/)
 - [Píldoras Informáticas](https://www.pildorasinformaticas.es/)
 
 
@@ -117,3 +118,8 @@
 - [Tailwind Fold](https://marketplace.visualstudio.com/items?itemName=stivo.tailwind-fold) - Herramienta para plegar clases de Tailwind en tu código.
 - [ImportCost](https://marketplace.visualstudio.com/items?itemName=stivo.tailwind-fold) - Muestra el tamaño de los paquetes importados en tu código.
 - [VS Code Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets) - Mascotas adorables para el VSC.
+
+#### Comunidades 👥
+- [Stack Overflow](https://stackoverflow.com/)
+- [Code Newbie](https://www.codenewbie.org/)
+- [DEV Community](https://dev.to/)
