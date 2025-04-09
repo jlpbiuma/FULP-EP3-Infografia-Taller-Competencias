@@ -28,6 +28,7 @@
 - [Brais Moure](https://www.linkedin.com/in/braismoure/)
 - [Traversy Media](https://www.youtube.com/@TraversyMedia/videos)
 - [Cassidy Williams](https://www.linkedin.com/in/cassidoo/)
+- [Píldoras Informáticas](https://www.pildorasinformaticas.es/)
 
 
 ##### Diseño 🎨
@@ -78,6 +79,8 @@
 - [Formity - formularios dinámicos](https://www.formity.app) - Librería para crear formularios dinámicos y fáciles de usar.
 - [Chakra UI - componentes sencillos pero customizables](https://chakra-ui.com/) - Librería de componentes y efectos para la tipografía.
 - [Flowbite - Tailwind CSS component library](https://flowbite.com/) - Librería muy interesante para trabajar con Tailwind.
+- [Cypress - Pruebas y testing](https://www.cypress.io/) - Librería de automatización de pruebas frontend para pruebas de regresión de aplicaciones web
+- [Cloudinary - Subir imágenes y videos a tu web de forma local](https://cloudinary.com/) - Ofrece servicios de gestión de medios en la nube para sitios web y aplicaciones. 
 
 #### Webs para diseño 🎨
 - [Law of UX](https://lawsofux.com/es/)
@@ -88,6 +91,7 @@
 
 ### Cursos relevantes gratuitos
 - [Curso React Native - Midudev](https://www.youtube.com/watch?v=qi87b6VcIHY)
+- [Curso Docker - Introducción](https://www.youtube.com/watch?v=CV_Uf3Dq-EU)
 
 #### Extensiones Chrome para diseño 🌈
 - [WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=es)
