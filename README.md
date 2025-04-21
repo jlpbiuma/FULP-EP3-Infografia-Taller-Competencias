@@ -74,6 +74,8 @@
 - [Recharts - gráficas](https://recharts.org/en-US/) - Librería para crear gráficos interactivos en aplicaciones React.
 - [Shadcn - componentes guapísimos](https://ui.shadcn.com) - Conjunto de componentes de interfaz de usuario listos para usar.
 - [Lucide Icons - Iconos](https://lucide.dev/icons/) - Colección de iconos SVG personalizables para tus proyectos.
+- [React Icons - Iconos](https://react-icons.github.io/react-icons/) - Biblioteca que ofrece miles de íconos populares.
+- [Debounce - Evitar llamadas innecesarias](https://www.npmjs.com/package/use-debounce) - Librería para aplicar fácilmente la técnica de debounce.
 - [Toast - Notificaciones](https://react-hot-toast.com) - Librería para mostrar notificaciones de manera sencilla en aplicaciones React.
 - [AG Charts - gráficas](https://www.ag-grid.com/charts/) - Herramienta para crear gráficos avanzados y personalizables.
 - [Formity - formularios dinámicos](https://www.formity.app) - Librería para crear formularios dinámicos y fáciles de usar.
@@ -117,6 +119,7 @@
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Formateador de código que asegura un estilo consistente.
 - [Tailwind Fold](https://marketplace.visualstudio.com/items?itemName=stivo.tailwind-fold) - Herramienta para plegar clases de Tailwind en tu código.
 - [ImportCost](https://marketplace.visualstudio.com/items?itemName=stivo.tailwind-fold) - Muestra el tamaño de los paquetes importados en tu código.
+- [CodeViz](https://www.codeviz.ai/) - Herramienta que visualiza y explica código automáticamente usando IA.
 - [VS Code Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets) - Mascotas adorables para el VSC.
 
 #### Comunidades 👥
